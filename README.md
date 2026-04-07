@@ -12,7 +12,7 @@
 </p>
 
 ### 🛡️ Current Research & Projects
-* **Multi-Stage Web Attack](https://github.com/victorhugomierez/security-research):**
+* **[Security-research](https://github.com/victorhugomierez/security-research):**
 * **[Multi-Stage Web Attack](https://github.com/victorhugomierez/Multi-Stage-Web-Attack-XSS-to-Admin-Takeover-and-RCE):** Complete exploitation chain from Stored XSS to Remote Code Execution (RCE).
 * **Omni-Analyzer:** Python-based intelligence tool for automated transcription and technical document analysis.
 
