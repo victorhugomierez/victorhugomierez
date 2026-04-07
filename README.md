@@ -1,4 +1,13 @@
-# Hi, I'm Victor Hugo Mierez 👋
+# Hi there! I'm Victor Hugo Mierez 👋
+
+### 📊 My Profile Stats
+![Visitors](https://komarev.com/ghpvc/?user=victorhugomierez&color=blue&style=flat-square)
+
+---
+*Preparing for Security+ | Security Researcher*
+
+
+
 **Security Researcher | Technical Student | Offensive Security Enthusiast**
 
 ---
