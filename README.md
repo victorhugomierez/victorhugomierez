@@ -23,4 +23,4 @@ I am passionate about cybersecurity, focusing on offensive security, cryptograph
 - Documentation and technical writing
 
 ## Goals
-🎯 Preparing for international cybersecurity career opportunities in Europe.
+Preparation for international career opportunities in cybersecurity around the world.
