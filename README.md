@@ -1,24 +1,26 @@
 
-# Hi, I'm Victor Hugo Mierez 👋
-**Security Researcher | Technical Student | Offensive Security Enthusiast**
+# Victor Hugo Mieres
 
----
+🔐 Cybersecurity Researcher | Offensive Security | Cryptography & Web Exploits
 
-### 📊 Profile Analytics
-![Visitors](https://komarev.com/ghpvc/?user=victorhugomierez&color=blue&style=flat-square)
+## About Me
+I am passionate about cybersecurity, focusing on offensive security, cryptographic attacks, and web vulnerabilities. My goal is to contribute to the community with practical labs, research, and educational resources.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?user=victorhugomierez&label=VULNERABILITY%20REPORTS%20VIEWED&color=0e75b6&style=flat" alt="victorhugomierez" />
-</p>
+## Featured Projects
+- [Length-Extension-Attacks](https://github.com/victorhugomierez/Length-Extension-Attacks)  
+  Explanation and practical examples of length extension attacks, with Python HMAC implementation.
 
-### 🛡️ Current Research & Projects
-* **[Security-research](https://github.com/victorhugomierez/security-research):**
-* **[Multi-Stage Web Attack](https://github.com/victorhugomierez/Multi-Stage-Web-Attack-XSS-to-Admin-Takeover-and-RCE):** Complete exploitation chain from Stored XSS to Remote Code Execution (RCE).
-* **Omni-Analyzer:** Python-based intelligence tool for automated transcription and technical document analysis.
+- [Multi-Stage Web Attack: XSS to Admin Takeover](https://github.com/victorhugomierez/Multi-Stage-Web-Attack-XSS-to-Admin-Takeover-and-RCE)  
+  Demonstrates a multi-phase exploit chain from XSS to RCE.
 
-### 🧪 Skills & Tools
-* **Languages:** Python, Bash, SpanEnglish.
-* **Offensive Tech:** Nmap, Burp Suite, Gobuster, Metasploit.
-* **Certifications:** Preparing for **CompTIA Security+**.
+- [Transcribe Audio](https://github.com/victorhugomierez/transcribe_audio)  
+  Omni-Analyzer v3.6: NLP-based tool for audio/document transcription and analysis.
 
----
+## Skills
+- Offensive Security (XSS, CSRF, RCE)
+- Cryptography (HMAC, SHA family, hash attacks)
+- Python, GitHub workflows, NLP tools
+- Documentation and technical writing
+
+## Goals
+🎯 Preparing for international cybersecurity career opportunities in Europe.
