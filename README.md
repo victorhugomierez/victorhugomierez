@@ -3,7 +3,6 @@
 
 ![Docs](https://img.shields.io/badge/Formato-Markdown-lightgrey?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA-green?style=for-the-badge)
 ![CID](https://img.shields.io/badge/CID-Confidencialidad%20%7C%20Integridad%20%7C%20Disponibilidad-orange?style=for-the-badge)
 
 ---
