@@ -1,5 +1,5 @@
-# 🛡️ Victorhugo |Experiencia en Seguridad + Ciberseguridad en desarrollo avanzado
-### Security Professional transitioning into Offensive Cybersecurity
+# 🛡️ Victorhugo | Seguridad Operativa y Ciberseguridad en Transición Avanzada
+### Security Operations & Cybersecurity – Advanced Transition
 
 
 ## 🇪🇸 Español
