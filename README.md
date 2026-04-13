@@ -1,5 +1,5 @@
-# 🛡️ Victorhugo | Seguridad Operativa y Ciberseguridad en Transición Avanzada
-### Security Operations & Cybersecurity – Advanced Transition
+# 🛡️ Victorhugo | Security Operations & Cybersecurity – Advanced Transition
+### Seguridad Operativa y Ciberseguridad en Transición Avanzada 
 
 
 ## 🇪🇸 Español
