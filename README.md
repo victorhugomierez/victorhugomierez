@@ -53,7 +53,7 @@ This space showcases my **international portfolio**, combining theory, practice,
 
 ## 📊 Stats / Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorhugomierez&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorhugomierez&show_icons=true&theme=dark)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victorhugomierez&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugomierez&layout=compact&theme=dark)
 
 ---
