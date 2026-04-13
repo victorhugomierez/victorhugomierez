@@ -1,4 +1,4 @@
-# 🛡️ Victorhugo | Analista de Sistemas y Seguridad en transición avanzada
+# 🛡️ Victorhugo |Experiencia en Seguridad + Ciberseguridad en desarrollo avanzado
 ### Security Professional transitioning into Offensive Cybersecurity
 
 
