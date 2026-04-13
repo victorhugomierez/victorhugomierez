@@ -1,80 +1,71 @@
-# 🛡️ Ensayo Técnico: CID y Normas IRAM en Sistemas de Monitoreo
-### Robustez, Resiliencia Operativa y Seguridad de la Información
+# 🛡️ Victorhugo | Security Operations Specialist
 
-![Docs](https://img.shields.io/badge/Formato-Markdown-lightgrey?style=for-the-badge)
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-blue?style=for-the-badge)
-![CID](https://img.shields.io/badge/CID-Confidencialidad%20%7C%20Integridad%20%7C%20Disponibilidad-orange?style=for-the-badge)
-
----
-
-## 📖 Descripción
-Este repositorio contiene un ensayo técnico avanzado sobre **Confidencialidad, Integridad y Disponibilidad (CID)** aplicado a sistemas de monitoreo, integrando:
-- **Arquitectura técnica** (sensores, paneles, redundancia).
-- **Cumplimiento normativo** (Normas IRAM, ISO).
-- **Acción humana del operador** como validador final en tiempo real.
-
-El enfoque combina **rigor académico** con **experiencia operativa**, documentando casos prácticos y diagramas conceptuales.
+Bienvenido a mi perfil de GitHub.  
+Soy especialista en **Seguridad Operativa** con más de 12 años de experiencia, actualmente convergiendo hacia **Offensive Cybersecurity** y **Análisis de Sistemas**.  
+Este espacio documenta mi **portfolio internacional**, con repositorios que integran teoría, práctica y casos de estudio en seguridad.
 
 ---
 
-## 📚 Tabla de Contenidos
-- [Descripción](#-descripción)
-- [Normas IRAM citadas](#-normas-iram-citadas)
-- [Esquema del ensayo](#-esquema-del-ensayo)
-- [Contenido del repositorio](#-contenido-del-repositorio)
-- [Resiliencia Operativa CID](#-resiliencia-operativa-cid)
-- [Autor](#-autor)
+## 🚀 Repositorios principales
+
+### 📂 [Resiliencia-operativa-CID](https://github.com/victorhugomierez/Resiliencia-operativa-CID)
+Ensayo técnico sobre **Confidencialidad, Integridad y Disponibilidad (CID)** aplicado a sistemas de monitoreo.  
+Incluye análisis normativo (IRAM), protocolos operativos y resiliencia ante ataques.
+
+### 📂 [security-research](https://github.com/victorhugomierez/security-research)
+Investigaciones y documentación en **ciberseguridad ofensiva**.  
+Casos prácticos de explotación, vectores de ataque y mitigaciones.
+
+### 📂 [Attacking-ECB-Oracles](https://github.com/victorhugomierez/Attacking-ECB-Oracles)
+Laboratorio práctico en **Python** sobre ataques a cifrado ECB.  
+Incluye demostraciones inseguras vs. seguras y documentación en Markdown.
+
+### 📂 [Padding-Oracles](https://github.com/victorhugomierez/Padding-Oracles)
+Ensayo técnico sobre ataques de **Padding Oracle**.  
+Documentación clara con ejemplos reproducibles y mitigaciones.
+
+### 📂 [Length-Extension-Attacks](https://github.com/victorhugomierez/Length-Extension-Attacks)
+Laboratorio de ataques de **extensión de longitud en hash**.  
+Incluye scripts, explicación técnica y contraste seguro/inseguro.
+
+### 📂 [Multi-Stage-Web-Attack-XSS-to-Admin-Takeover-and-RCE](https://github.com/victorhugomierez/Multi-Stage-Web-Attack-XSS-to-Admin-Takeover-and-RCE)
+Caso de estudio sobre ataques web multi-etapa: **XSS → Admin Takeover → RCE**.  
+Documentación paso a paso y mitigaciones.
+
+### 📂 [transcribe_audio](https://github.com/victorhugomierez/transcribe_audio)
+Proyecto en **Python** para transcripción de audio.  
+Ejemplo de integración de herramientas técnicas en flujo de trabajo.
+
+### 📂 [Certifications-Learning-Paths](https://github.com/victorhugomierez/Certifications-Learning-Paths)
+Mapa de certificaciones y rutas de aprendizaje en **ciberseguridad y sistemas**.  
+Documentación de progreso y objetivos internacionales.
+
+### 📂 [-Achievements](https://github.com/victorhugomierez/-Achievements)
+Registro de hitos, logros y avances en laboratorios (TryHackMe, HackTheBox).  
+Documentación de horas, streaks y milestones.
 
 ---
 
-## 📑 Normas IRAM citadas
-- IRAM 4174-1  
-- IRAM 4174-2  
-- IRAM 4174-3  
-- IRAM 4175  
-- IRAM 4176  
-- IRAM 4177  
-- IRAM 4179  
-- IRAM 62676-1-1  
-- IRAM 3639  
-
-> Estas normas constituyen el marco regulatorio y técnico que asegura la disponibilidad, integridad y confiabilidad de los sistemas de monitoreo.
+## 🛡️ Áreas de especialización
+- **CID (Confidencialidad, Integridad, Disponibilidad)** aplicado a sistemas reales.  
+- **Normas IRAM/ISO** en seguridad electrónica y monitoreo.  
+- **Ciberseguridad ofensiva**: laboratorios prácticos y explotación controlada.  
+- **Git & Python troubleshooting** para entornos reproducibles.  
+- **Documentación técnica en Markdown** con diagramas y visualizaciones.
 
 ---
 
-## 🧩 Esquema del ensayo
-1. **Introducción**  
-2. **Arquitectura técnica del sistema**  
-3. **Cumplimiento normativo**  
-4. **Validación de identidad y rol del operador**  
-5. **Conclusiones**  
-
----
-
-## 📂 Contenido del repositorio
-- `Essay.md` → Documento principal.  
-- `Resiliencia-operativa-CID.md` → Ensayo complementario sobre resiliencia operativa.  
-- `assets/validacion.png` → Diagrama conceptual.  
-- `README.md` → Presentación y esquema del proyecto.  
-
----
-
-## 🛡️ Resiliencia Operativa CID
-El documento complementario **`Resiliencia-operativa-CID.md`** desarrolla un **caso de estudio genérico** sobre cómo la tríada CID se aplica en la operación real de un Centro de Recepción de Alarmas (CRA).  
-Se analizan:
-- **Gestión de infraestructura eléctrica** (contingencia de energía).  
-- **Redundancia crítica de conectividad** (balanceo de ISPs).  
-- **Validación de identidad y protocolos de coacción**.  
-
-El objetivo es demostrar cómo la **resiliencia operativa** asegura que la señal generada mantenga **confidencialidad, integridad y disponibilidad**, incluso ante ataques o fallas técnicas.
+## 📊 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorhugomierez&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugomierez&layout=compact&theme=dark)
 
 ---
 
 ## ✍️ Autor
 **Victorhugomierez**  
-🔐 Security Operations Specialist (12 años experiencia)  
+🔐 Security Operations Specialist  
 💻 Offensive Cybersecurity & Systems Analysis  
-📚 Documentación técnica en Markdown | Portfolio internacional  
+📚 Portfolio internacional en GitHub
 
-**Tags (ES):** seguridad, CID, normas-IRAM, sistemas-de-monitoreo, resiliencia-operativa, ciberseguridad, análisis-de-sistemas, ensayo-tecnico  
-**Tags (EN):** security, CID, IRAM-standards, system-monitoring, operational-resilience, cybersecurity, systems-analysis, technical-essay
+**Tags (ES):** seguridad, CID, normas-IRAM, resiliencia-operativa, ciberseguridad, análisis-de-sistemas, ensayo-tecnico  
+**Tags (EN):** security, CID, IRAM-standards, operational-resilience, cybersecurity, systems-analysis, technical-essay
