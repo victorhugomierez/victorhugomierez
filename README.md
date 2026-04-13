@@ -1,4 +1,6 @@
-# 🛡️ Victorhugo | Security Operations Specialist
+# 🛡️ Victorhugo | Seguridad Operativa & Ciberseguridad en Transición
+### Security Professional transitioning into Offensive Cybersecurity
+
 
 ## 🇪🇸 Español
 
