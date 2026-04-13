@@ -58,9 +58,9 @@ This space showcases my **international portfolio**, combining theory, practice,
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorhugomierez&layout=compact&theme=dark)
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-Expert-lightgrey?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Advanced-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Medium-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-Medium-lightgrey?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Medium-orange?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-Offensive-red?style=for-the-badge)
 
 ---
