@@ -42,12 +42,13 @@ This space showcases my **international portfolio**, combining theory, practice,
 
 ---
 
-## 🛡️ Specialization / Especialización
-- **CID (Confidentiality, Integrity, Availability / Confidencialidad, Integridad, Disponibilidad)**  
-- **IRAM/ISO standards in monitoring systems**  
-- **Offensive Cybersecurity labs and exploitation**  
-- **Git & Python troubleshooting for reproducible environments**  
-- **Technical documentation in Markdown with diagrams and visualizations**
+## 📚 Focus Areas / Áreas de Enfoque
+- **CID (Confidentiality, Integrity, Availability / Confidencialidad, Integridad, Disponibilidad)** aplicado en sistemas reales.  
+- **Normas IRAM/ISO** como marco de referencia en seguridad electrónica y monitoreo.  
+- **Ciberseguridad ofensiva en desarrollo avanzado**: laboratorios prácticos (TryHackMe, HackTheBox).  
+- **Git & Python troubleshooting** para entornos reproducibles.  
+- **Documentación técnica en Markdown** con diagramas y visualizaciones.
+
 
 ---
 
