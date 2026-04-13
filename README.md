@@ -52,7 +52,7 @@ This space showcases my **international portfolio**, combining theory, practice,
 
 ---
 
-## 📊 Stats / Estadísticas
+
 ## 📊 Stats / Estadísticas
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victorhugomierez&show_icons=true&theme=dark)
 
